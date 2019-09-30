@@ -1,0 +1,4 @@
+﻿  tcpClient.cpp
+C:\Users\40678\source\repos\tcpClient\tcpClient.cpp(39,1): warning C4996:  'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1831): message :  参见“inet_addr”的声明
+  tcpClient.vcxproj -> C:\Users\40678\source\repos\tcpClient\Debug\tcpClient.exe
